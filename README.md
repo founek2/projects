@@ -115,3 +115,9 @@ Technologies:
 ### Integrations and bots
 
 [Repository](https://github.com/founek2/IOT-Platforma-bots)
+
+## Python curriculum
+
+Curriculum for basic Python programming, which I have been teaching in Education section of biggesst student club in Czech Republic called Sillicon Hill.
+
+[Curriculum](https://python.iotdomu.cz/)
