@@ -24,7 +24,7 @@ Technologies:
 
 [Demo](https://alfasilver.projects.iotdomu.cz/)
 
-[Source code](https://github.com/founek2/Alfasilver/tree/main)
+[Repository](https://github.com/founek2/Alfasilver/tree/main)
 
 ## Webserver written in C++
 
@@ -34,7 +34,7 @@ Technologies:
 
 - Pure C++
 
-[Source code](https://github.com/founek2/cpp-web-server)
+[Repository](https://github.com/founek2/cpp-web-server)
 
 ## Three.js exercise
 
@@ -42,7 +42,7 @@ This was created in order to try out Three.js library. It is jumping game with g
 
 [Demo](http://threejs.projects.iotdomu.cz)
 
-[Source code](https://github.com/founek2/threejs-jumping-game)
+[Repository](https://github.com/founek2/threejs-jumping-game)
 
 ## Skyline filtering
 
@@ -61,7 +61,7 @@ Technologies:
 
 [Paper](./_media/skyline.pdf)
 
-[source code](https://github.com/founek2/school-projects/tree/master/bi-wvm)
+[Repository](https://github.com/founek2/school-projects/tree/master/bi-wvm)
 
 ## Metadata ordering
 
@@ -73,7 +73,7 @@ Implemented as React SPA application.
 
 [Paper](./_media/metadata.pdf)
 
-[source code](https://github.com/founek2/school-projects/tree/master/ni-vmm)
+[Repository](https://github.com/founek2/school-projects/tree/master/ni-vmm)
 
 ## MongoDB vs InflusDB performance
 
@@ -83,7 +83,7 @@ V nedávné době jsem ukládání dat z IoT zařízení přesunul na databázi 
 
 [Paper](./_media/mongo_vs_influx.pdf)
 
-[source code](https://github.com/founek2/school-projects/tree/master/NI-PDB)
+[Repository](https://github.com/founek2/school-projects/tree/master/NI-PDB)
 
 ## IoT Platform
 
@@ -106,12 +106,12 @@ Technologies:
 
 [Running instance](https://ng.iotdomu.cz)
 
-[Source code](https://github.com/founek2/IOT-Platforma)
+[Repository](https://github.com/founek2/IOT-Platforma)
 
 ### Arduino library
 
-[Source code](https://github.com/founek2/IoT-Platform-library)
+[Repository](https://github.com/founek2/IoT-Platform-library)
 
 ### Integrations and bots
 
-[Source code](https://github.com/founek2/IOT-Platforma-bots)
+[Repository](https://github.com/founek2/IOT-Platforma-bots)
