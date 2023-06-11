@@ -121,3 +121,11 @@ Technologies:
 Curriculum for basic Python programming, which I have been teaching in Education section of biggesst student club in Czech Republic called Sillicon Hill.
 
 [Curriculum](https://python.iotdomu.cz/)
+
+## Services portal
+
+Simple web portal for use, when you have multiple running services (websites) and you are unable to remember them all.
+
+[Demo](https://sluzby.iotdomu.cz/)
+
+[Repository](https://github.com/founek2/services-portal)
