@@ -85,7 +85,7 @@ V nedávné době jsem ukládání dat z IoT zařízení přesunul na databázi 
 
 [Repository](https://github.com/founek2/school-projects/tree/master/NI-PDB)
 
-## IoT Platform
+## ⭐ IoT Platform ⭐
 
 Projekt vznikl ve volném času za účelem vytvořit alternativní IOT platformu pro co největší množství zařízení. Platforma má moderní webové rozhraní s uživatelskými účty, automatickou detekci nových zařízení a jejich správu včetně implementovaných oprávnění.
 
