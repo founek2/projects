@@ -129,4 +129,17 @@ Simple web portal for use, when you have multiple running services (websites) an
 [Demo](https://sluzby.iotdomu.cz/)
 
 [Repository](https://github.com/founek2/services-portal)
- 
+
+## Elm & React interop
+
+I wanted to play with React & Elm interoperability to find out how well it can integrate in order to get experience about possibility to slowly migrate existing React project into Elm.
+
+Technologies:
+
+- React
+- Elm
+- Webpack
+
+[Demo](https://elm.projects.iotdomu.cz/)
+
+[Repository](https://github.com/founek2/school-projects/tree/master/NI-AFP/ni-afp-project)
