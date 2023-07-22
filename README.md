@@ -143,3 +143,17 @@ Technologies:
 [Demo](https://elm.projects.iotdomu.cz/)
 
 [Repository](https://github.com/founek2/school-projects/tree/master/NI-AFP/ni-afp-project)
+
+## Intranet frontend
+
+On high school we had very ugly intranet, so we decided to create ower own frontend for it. I do not have working credentials for it, but there is fancy panda on logic page create in pure css (try to fill login form and observe Panda)
+
+Technologies:
+
+- React
+- Sass
+- Webpack
+
+[Demo](https://panda.projects.iotdomu.cz/)
+
+[Repository](https://github.com/founek2/-antiMcBlack-)
