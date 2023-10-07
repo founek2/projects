@@ -112,6 +112,10 @@ Technologies:
 
 [Repository](https://github.com/founek2/IOT-Platform-arduino)
 
+### Deno library
+
+[Repository](https://github.com/founek2/IOT-Platform-deno)
+
 ### Integrations and bots
 
 [Repository](https://github.com/founek2/IOT-Platform-integration)
