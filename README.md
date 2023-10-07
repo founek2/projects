@@ -106,15 +106,15 @@ Technologies:
 
 [Running instance](https://ng.iotdomu.cz)
 
-[Repository](https://github.com/founek2/IOT-Platforma)
+[Repository](https://github.com/founek2/IOT-Platform)
 
 ### Arduino library
 
-[Repository](https://github.com/founek2/IoT-Platform-library)
+[Repository](https://github.com/founek2/IOT-Platform-arduino)
 
 ### Integrations and bots
 
-[Repository](https://github.com/founek2/IOT-Platforma-bots)
+[Repository](https://github.com/founek2/IOT-Platform-integration)
 
 ## Python curriculum
 
